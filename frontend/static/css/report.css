@@ -1,0 +1,27 @@
+.report-generate-btn {
+  border-radius: 5px;
+  border: 1px solid #e6ccff;
+  background-color: #e6ccff;
+  color: #600080;
+  padding: 5px 10px;
+  width: 180px;
+}
+
+.report-generate-btn:hover {
+  -webkit-box-shadow: 0 8px 6px -6px #d9d9d9;
+  -moz-box-shadow: 0 8px 6px -6px #d9d9d9;
+  box-shadow: 0 8px 6px -6px #d9d9d9;
+  -webkit-transform: translateY(-2px);
+  transform: translateY(-2px);
+}
+
+.report-download-link {
+  border-color: #ac00e6;
+  color: #ac00e6;
+  cursor: pointer;
+}
+
+.report-download-link:hover {
+  border-color: #600080;
+  color: #600080;
+}
